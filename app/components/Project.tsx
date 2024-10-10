@@ -29,7 +29,7 @@ const projects = [
     title: 'Football Website Full Responsive',
     description: 'A fully responsive football website with Next.js 14.',
     imageUrl: '/4.png',
-    link: 'https://hammer-6ykpvyfm0-muhammad-fahad-jabbars-projects.vercel.app/', // Mock Social Media App link
+    link: 'https://hammer-fc-1.vercel.app/', // Mock Social Media App link
   },
   {
     id: 3,
