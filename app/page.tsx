@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { Menu, X, ChevronDown, Mail, Github, Linkedin, Download } from 'lucide-react'
 import Scroll from '@/app/components/Scroll'
 import Project from '@/app/components/Project'
+// import Skill from '@/app/components/Skill'
 
 const skills = [
   "React", "Next.js", "TypeScript", "Node.js", "Html","Css", "Mysql", "Prisma", "Tailwind CSS", "Framer Motion"
@@ -192,6 +193,7 @@ element?.scrollIntoView({ behavior: 'smooth' })
               ))}
             </div>
           </div>
+          {/* <Skill/> */}
         </section>
 
         <section ref={resumeRef} className="py-20">

@@ -5,6 +5,13 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
+    title: 'StyleHub Website',
+    description: 'A fully functional StyleHub platform.',
+    imageUrl: '/9.png',
+    link: 'https://fahad-website-stylehub.vercel.app/', // E-commerce project link
+  },
+  {
+    id: 1,
     title: 'E-commerce Website',
     description: 'A fully functional e-commerce platform.',
     imageUrl: '/ecommerce.png',
