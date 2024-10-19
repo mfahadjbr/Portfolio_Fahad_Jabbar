@@ -7,15 +7,15 @@ const projects = [
     id: 1,
     title: 'vprimetech Website',
     description: 'A fully functional vprimetech platform.',
-    imageUrl: '/9.png',
-    link: 'https://fahad-website-stylehub.vercel.app/', // E-commerce project link
+    imageUrl: '/new.jpeg',
+    link: 'https://vprimetech.vercel.app/', // E-commerce project link
   },
   {
     id: 1,
     title: 'StyleHub Website',
     description: 'A fully functional StyleHub platform.',
-    imageUrl: '/new.jpeg',
-    link: 'https://vprimetech.vercel.app/', // E-commerce project link
+    imageUrl: '/9.png',
+    link: 'https://fahad-website-stylehub.vercel.app/', // E-commerce project link
   },
   {
     id: 1,
