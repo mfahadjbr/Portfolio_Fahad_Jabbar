@@ -104,7 +104,7 @@ const ProjectsSection = ({ projectsRef }: { projectsRef: React.RefObject<HTMLEle
                   rel="noopener noreferrer"
                   className="bg-blue-500 text-white px-4 py-2 rounded-full hover:bg-blue-600 transition-colors inline-block"
                 >
-                  Learn More
+                  Visit Website
                 </motion.a>
               </div>
             </motion.div>
