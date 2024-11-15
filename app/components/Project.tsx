@@ -5,6 +5,13 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
+    title: 'Diet Plan Website',
+    description: 'A personalized diet plan website offering tailored meal plans, calorie tracking, recipe suggestions, and progress monitoring for healthy living.',
+    imageUrl: '/diet.jpeg',
+    link: 'https://diet-plan-website.vercel.app/', // E-commerce project link
+  },
+  {
+    id: 1,
     title: 'Blog Website Sanity',
     description: 'Full responsive website and all the data in sanity database store.',
     imageUrl: '/blog.jpeg',
