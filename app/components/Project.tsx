@@ -5,6 +5,13 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
+    title: 'Saas Website',
+    description: 'Streamline your business with our all-in-one SaaS platform, offering powerful tools for collaboration, productivity, and growth.',
+    imageUrl: '/saas.jpeg',
+    link: 'https://saas-form-website.vercel.app/', // E-commerce project link
+  },
+  {
+    id: 1,
     title: 'Diet Plan Website',
     description: 'A personalized diet plan website offering tailored meal plans, calorie tracking, recipe suggestions, and progress monitoring for healthy living.',
     imageUrl: '/diet.jpeg',
