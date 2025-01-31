@@ -5,6 +5,13 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
+    title: 'Basketball Website',
+    description: 'A dynamic basketball website showcasing the latest game updates, player stats, and team news. Features include live scores, match schedules, photo galleries, and interactive fan engagement, delivering an immersive experience for basketball enthusiasts and keeping fans connected to the game.',
+    imageUrl: '/basket.png',
+    link: 'https://basketball-website-ten.vercel.app/', // E-commerce project link
+  },
+  {
+    id: 1,
     title: 'Agentia world Website',
     description: 'A fully functional Agentia world platform.',
     imageUrl: '/agentia.png',
