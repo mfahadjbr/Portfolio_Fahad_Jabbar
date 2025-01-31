@@ -5,10 +5,10 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
-    title: 'Saas Website',
-    description: 'Streamline your business with our all-in-one SaaS platform, offering powerful tools for collaboration, productivity, and growth.',
-    imageUrl: '/saas.jpeg',
-    link: 'https://saas-form-website.vercel.app/', // E-commerce project link
+    title: 'Agentia world Website',
+    description: 'A fully functional Agentia world platform.',
+    imageUrl: '/agentia.png',
+    link: 'https://agentia-world-website.vercel.app/', // E-commerce project link
   },
   {
     id: 1,
