@@ -1,8 +1,16 @@
 import Image from 'next/image';
 import { motion } from 'framer-motion';
+import { desc } from 'framer-motion/client';
 
 // Mock project data with project-specific links
 const projects = [
+  {
+    id: 1,
+    title: 'AI Resume Application',
+    description: 'An AI-powered resume application that helps users create professional resumes in minutes. The application uses machine learning algorithms to analyze user data and generate personalized resume templates, making it easy for users to create and customize their resumes.',
+    imageUrl: '/project.png',
+    link: 'https://ai-application-five.vercel.app/', 
+  },
   {
     id: 1,
     title: 'Basketball Website',
