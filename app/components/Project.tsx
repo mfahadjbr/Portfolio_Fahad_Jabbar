@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import { motion } from 'framer-motion';
-import { desc } from 'framer-motion/client';
 
 // Mock project data with project-specific links
 const projects = [
