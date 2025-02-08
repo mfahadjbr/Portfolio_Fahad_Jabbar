@@ -8,7 +8,7 @@ const projects = [
     title: 'AI Resume Application',
     description: 'An AI-powered resume application that helps users create professional resumes in minutes. The application uses machine learning algorithms to analyze user data and generate personalized resume templates, making it easy for users to create and customize their resumes.',
     imageUrl: '/project.png',
-    link: 'https://ai-application-five.vercel.app/', 
+    link: 'https://ai-resume-builder-three-iota.vercel.app', 
   },
   {
     id: 1,
