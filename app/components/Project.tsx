@@ -5,6 +5,13 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
+    title: 'AI Trip Planner',
+    description: 'An AI-powered trip planner that helps users create personalized travel itineraries based on their preferences. The application uses machine learning algorithms to analyze user data and generate custom travel plans, making it easy for users to explore new destinations and create memorable experiences.',
+    imageUrl: '/trip.jpg',
+    link: 'https://mfahadjbr-ai-trip-plan-website-srcproject1main-0b1pil.streamlit.app', 
+  },
+  {
+    id: 1,
     title: 'AI Resume Application',
     description: 'An AI-powered resume application that helps users create professional resumes in minutes. The application uses machine learning algorithms to analyze user data and generate personalized resume templates, making it easy for users to create and customize their resumes.',
     imageUrl: '/project.png',
