@@ -5,6 +5,13 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
+    title: 'AI Book Writer Application',
+    description: 'An AI-powered book writer application that helps users generate custom book content based on their preferences. The application uses machine learning algorithms to analyze user data and generate personalized book chapters, making it easy for users to create and customize their own books.',
+    imageUrl: '/book.jpg',
+    link: 'https://mfahadjbr-ai-book-writer-srcai-book-writermain-is6myq.streamlit.app', 
+  },
+  {
+    id: 1,
     title: 'AI Trip Planner',
     description: 'An AI-powered trip planner that helps users create personalized travel itineraries based on their preferences. The application uses machine learning algorithms to analyze user data and generate custom travel plans, making it easy for users to explore new destinations and create memorable experiences.',
     imageUrl: '/trip.jpg',

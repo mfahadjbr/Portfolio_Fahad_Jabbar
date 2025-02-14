@@ -115,7 +115,7 @@ element?.scrollIntoView({ behavior: 'smooth' })
                   <ChevronDown size={20} />
                 </motion.button>
                 <motion.a
-                  href="/path-to-your-cv.pdf"
+                  href="https://drive.google.com/file/d/1mqdH2MvuyCf2sB6DORftDbX4QVkP1dld/view?usp=drive_link"
                   download
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
@@ -212,7 +212,7 @@ element?.scrollIntoView({ behavior: 'smooth' })
                 <li>Bachelor's in Artifical Intelligence, Air University Islamabad (2027)</li>
               </ul>
               <motion.a
-                href="/path-to-your-cv.pdf"
+                href="https://drive.google.com/file/d/1mqdH2MvuyCf2sB6DORftDbX4QVkP1dld/view?usp=drive_link"
                 download
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
